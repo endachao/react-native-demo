@@ -2,7 +2,7 @@
 
 ## 介绍
 
-<img src="http://p1.bpimg.com/4851/64bf4ec77287a729.gif">
+<img src="http://ogbjboj4h.bkt.clouddn.com/tmpdir--16_11_16_16_36_20.gif">
 
 
 做为 react-native 入门的一个小 demo
